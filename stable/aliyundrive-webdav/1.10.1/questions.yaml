@@ -832,6 +832,34 @@ questions:
                                   schema:
                                     type: int
                                     required: true
+  - variable: TipsStorage_a
+    group: Storage and Persistence
+    label: 建议映射的存储路径：
+    schema:
+      additional_attrs: true
+      type: dict
+      attrs:
+        - variable: confirmDonate
+          label: I have considered donating
+          schema:
+            type: boolean
+            default: true
+            hidden: true
+  - variable: TipsStorage_b
+    group: Storage and Persistence
+    label: 1.【/etc/aliyundrive-webdav/】
+    description: 查看文档了解存储卷细节
+      <br /><a href="https://hub.docker.com/r/messense/aliyundrive-webdav">点击转跳官方文档</a>
+    schema:
+      additional_attrs: true
+      type: dict
+      attrs:
+        - variable: confirmDonate
+          label: I have considered donating
+          schema:
+            type: boolean
+            default: true
+            hidden: true
   - variable: persistenceList
     label: Additional App Storage
     group: Storage and Persistence
