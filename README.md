@@ -10,6 +10,17 @@
 - Preferred Trains: `stable`
 - Branch: `main`
 
+# Applications
+
+<table>
+<tr>
+<td><img src="https://github.com/THDCOM/TrueNasCharts/raw/main/stable/aliyundrive-webdav/icon_512.jpg" /></td>
+</tr>
+<tr>
+<td>aliyundrive-webdav</td>
+</tr>
+</table>
+
 # License (Include Reference)
 
 ### `./stable`
