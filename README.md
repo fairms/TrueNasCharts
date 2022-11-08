@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td><img align=middle width=80px src="https://github.com/THDCOM/TrueNasCharts/raw/main/stable/aliyundrive-webdav/icon_512.jpg" /></td>
+<td align=middle><img width=80px src="https://github.com/THDCOM/TrueNasCharts/raw/main/stable/aliyundrive-webdav/icon_512.jpg" /></td>
 </tr>
 <tr>
 <td>aliyundrive-webdav</td>
