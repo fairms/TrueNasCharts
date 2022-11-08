@@ -14,12 +14,13 @@
 
 <table>
 <tr>
-<td><img width=80px src="https://github.com/THDCOM/TrueNasCharts/raw/main/stable/aliyundrive-webdav/icon_512.jpg" /></td>
+<td><img align=middle width=80px src="https://github.com/THDCOM/TrueNasCharts/raw/main/stable/aliyundrive-webdav/icon_512.jpg" /></td>
 </tr>
 <tr>
 <td>aliyundrive-webdav</td>
 </tr>
 </table>
+
 
 # License (Include Reference)
 
