@@ -1,0 +1,25 @@
+apiVersion: v2
+appVersion: "0.20.2180"
+dependencies:
+  - name: common
+    repository: file://../../../library/common/truecharts.10.7.7
+    version: 10.7.7
+deprecated: false
+description: "阿里云盘 WebDAV 服务"
+home: https://github.com/THDCOM/TrueNasCharts/raw/main/stable/aliyundrive-webdav
+icon: https://github.com/THDCOM/TrueNasCharts/raw/main/stable/aliyundrive-webdav/icon_512.jpg
+keywords:
+  - storage
+  - webdav
+  - aliyundrive
+kubeVersion: ">=1.16.0-0"
+maintainers:
+  - name: GitHub@TitanRGB
+    url: https://github.com/TitanRGB
+name: aliyundrive-webdav
+sources:
+  - https://github.com/THDCOM/TrueNasCharts/raw/main/default/aliyundrive-webdav
+  - https://github.com/messense/aliyundrive-webdav
+  - https://hub.docker.com/r/messense/aliyundrive-webdav
+type: application
+version: 1.10.1
