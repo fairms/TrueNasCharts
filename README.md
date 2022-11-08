@@ -21,14 +21,15 @@
 </tr>
 </table>
 
-
 # License (Include Reference)
 
-### `./stable`
+All unmentioned path with files in this repo, are under [Mozilla Public License Version 2.0](https://github.com/THDCOM/TrueNasCharts/blob/main/LICENSE)
 
-Provides by this repo
+- https://github.com/THDCOM/TrueNasCharts/blob/main/LICENSE
 
-### `./library/common/truecharts.10.7.7`
+## Path under other Licenses
+
+#### `./library/common/truecharts.10.7.7`
 
 This template is provided by [GitHub@TrueCharts](https://github.com/truecharts) under [BSD-3-Clause license](https://github.com/truecharts/library-charts/blob/main/LICENSE)
 
