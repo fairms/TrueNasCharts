@@ -29,11 +29,21 @@ All unmentioned path with files in this repo, are under [Mozilla Public License 
 
 ## Path under other Licenses
 
-#### `./library/common/truecharts.10.7.7`
+> #### `./library/common/official.2207.0.0`
+>
+> This template is provided by [GitHub@TrueNAS](https://github.com/truenas) under [BSD-3-Clause license](https://github.com/truenas/charts/blob/master/LICENSE)
+>
+> - https://github.com/truenas/charts
+> - https://github.com/truenas/charts/blob/master/LICENSE
+> - https://github.com/truenas/charts/tree/master/library/common/2207.0.0
+>
 
-This template is provided by [GitHub@TrueCharts](https://github.com/truecharts) under [BSD-3-Clause license](https://github.com/truecharts/library-charts/blob/main/LICENSE)
-
-- https://github.com/truecharts
-- https://github.com/truecharts/library-charts/blob/main/LICENSE
-
-All rights reserved by The TrueCharts Project
+> #### `./library/common/truecharts.10.7.7`
+>
+> This template is provided by [GitHub@TrueCharts](https://github.com/truecharts) under [BSD-3-Clause license](https://github.com/truecharts/library-charts/blob/main/LICENSE)
+>
+> - https://github.com/truecharts
+> - https://github.com/truecharts/library-charts/blob/main/LICENSE
+> - https://github.com/truecharts/library-charts/releases/tag/common-10.7.7
+>
+> All rights reserved by The TrueCharts Project
