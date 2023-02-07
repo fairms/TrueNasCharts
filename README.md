@@ -1,10 +1,9 @@
 # Usage
 
-- Login TrueNAS SCALE
-
-- Go to "Apps" in the left hand menu
-- Select the "Manage Catalogs" tab
-- Click "Add Catalog" and enter the required information:
+1. Login TrueNAS SCALE
+2. Go to "Apps" in the left hand menu
+3. Select the "Manage Catalogs" tab
+4. Click "Add Catalog" and enter the required information:
 - Name: `titanrgb`
 - Repository: `https://github.com/THDCOM/TrueNasCharts`
 - Preferred Trains: `stable`
