@@ -47,13 +47,13 @@ questions:
           label: "Container Repository"
           schema:
             type: string
-            default: "messense/aliyundrive-webdav"
+            default: "allanpk716/chinesesubfinder"
             required: true
         - variable: tag
           label: "Container Tag"
           schema:
             type: string
-            default: "1.11.0"
+            default: "0.46.3"
             required: true
         - variable: pullPolicy
           label: "Container Pullpolicy"

@@ -14,8 +14,8 @@ keywords:
   - chinesesubfinder
 kubeVersion: ">=1.16.0-0"
 maintainers:
-  - name: GitHub@TitanRGB
-    url: https://github.com/TitanRGB
+  - name: GitHub@fairms
+    url: https://github.com/fairms
 name: chinesesubfinder
 sources:
   - https://github.com/fairms/TrueNasCharts/raw/main/default/chinesesubfinder
