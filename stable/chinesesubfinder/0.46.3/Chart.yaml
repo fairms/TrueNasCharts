@@ -1,0 +1,25 @@
+apiVersion: v2
+appVersion: "0.1.0"
+dependencies:
+  - name: common
+    repository: file://../../../library/common/truecharts.10.7.7
+    version: 10.7.7
+deprecated: false
+description: "ChineseSubFinder"
+home: https://github.com/fairms/TrueNasCharts/raw/main/stable/chinesesubfinder
+icon: https://github.com/fairms/TrueNasCharts/raw/main/stable/chinesesubfinder/icon_512.png
+keywords:
+  - movie
+  - tv
+  - chinesesubfinder
+kubeVersion: ">=1.16.0-0"
+maintainers:
+  - name: GitHub@TitanRGB
+    url: https://github.com/TitanRGB
+name: ChineseSubFinder
+sources:
+  - https://github.com/fairms/TrueNasCharts/raw/main/default/chinesesubfinder
+  - https://github.com/ChineseSubFinder/chinesesubfinder
+  - https://hub.docker.com/r/allanpk716/chinesesubfinder
+type: application
+version: 0.46.3
