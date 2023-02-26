@@ -1,0 +1,23 @@
+apiVersion: v2
+appVersion: "0.1.0"
+dependencies:
+  - name: common
+    repository: file://../../../library/common/truecharts.10.7.7
+    version: 10.7.7
+deprecated: false
+description: "Promtail"
+home: https://github.com/fairms/TrueNasCharts/raw/main/stable/promtail
+icon: https://github.com/fairms/TrueNasCharts/raw/main/stable/promtail/icon.png
+keywords:
+  - promtail
+  - loki
+  - grafana
+kubeVersion: ">=1.16.0-0"
+maintainers:
+  - name: GitHub@fairms
+    url: https://github.com/fairms
+name: promtail
+sources:
+  - https://github.com/fairms/TrueNasCharts/raw/main/default/promtail
+type: application
+version: 2.7.4

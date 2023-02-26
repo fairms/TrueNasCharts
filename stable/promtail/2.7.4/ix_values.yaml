@@ -1,0 +1,7 @@
+image:
+  repository: grafana/promtail
+  pullPolicy: IfNotPresent
+  tag: 2.7.4@sha256:0abe676a9b183901b27c89d50397611e820be40583fe02ef94e148fe33956f00
+
+portal:
+  enabled: true

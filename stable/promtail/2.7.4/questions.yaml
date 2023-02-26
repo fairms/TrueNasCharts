@@ -47,13 +47,13 @@ questions:
           label: "Container Repository"
           schema:
             type: string
-            default: "allanpk716/chinesesubfinder"
+            default: "grafana/promtail"
             required: true
         - variable: tag
           label: "Container Tag"
           schema:
             type: string
-            default: "v0.46.3"
+            default: "2.7.4"
             required: true
         - variable: pullPolicy
           label: "Container Pullpolicy"
