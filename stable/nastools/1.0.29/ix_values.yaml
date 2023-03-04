@@ -1,0 +1,4 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: 19970688/nastools-bt
+  tag: latest
