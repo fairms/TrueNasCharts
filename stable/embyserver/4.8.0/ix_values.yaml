@@ -1,0 +1,7 @@
+image:
+  repository: lovechen/embyserver
+  pullPolicy: IfNotPresent
+  tag: latest
+
+portal:
+  enabled: true

@@ -15,10 +15,15 @@
 <tr>
 <td align=middle><img width=100px src="https://github.com/fairms/TrueNasCharts/raw/main/stable/aliyundrive-webdav/icon_512.jpg" /></td>
 <td align=middle><img width=100px src="https://github.com/fairms/TrueNasCharts/raw/main/stable/chinesesubfinder/icon_512.png" /></td>
+<td align=middle><img width=100px src="https://github.com/fairms/TrueNasCharts/raw/main/stable/nastools/icon_512.png" /></td>
+<td align=middle><img width=100px src="https://github.com/fairms/TrueNasCharts/raw/main/stable/embyserver/emby.png" /></td>
+
 </tr>
 <tr>
 <td>aliyundrive-webdav</td>
 <td>ChineseSubFinder</td>
+<td>NASTools</td>
+<td>Emby</td>
 </tr>
 
 </table>
