@@ -6,8 +6,8 @@ dependencies:
     version: 10.7.7
 deprecated: false
 description: "emby"
-home: https://github.com/fairms/TrueNasCharts/raw/main/stable/embyserver
-icon: https://github.com/fairms/TrueNasCharts/raw/main/stable/embyserver/emby.png
+home: https://github.com/fairms/TrueNasCharts/raw/main/stable/emby
+icon: https://github.com/fairms/TrueNasCharts/raw/main/stable/emby/emby.png
 keywords:
   - movie
   - tv
@@ -19,7 +19,7 @@ maintainers:
     url: https://github.com/fairms
 name: emby
 sources:
-  - https://github.com/fairms/TrueNasCharts/raw/main/default/embyserver
+  - https://github.com/fairms/TrueNasCharts/raw/main/default/emby
   - https://hub.docker.com/r/lovechen/embyserver
 type: application
 version: 4.8.0
