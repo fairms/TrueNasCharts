@@ -1,0 +1,16 @@
+apiVersion: v2
+appVersion: 10.8.9
+dependencies:
+- name: common
+  repository: file://../../../library/common/2207.0.0
+  version: 2207.0.0
+description: Emby Server
+home: https://emby.media/
+icon: https://ghproxy.com/https://raw.githubusercontent.com/qwerty00007/xchart/main/assets/jellyfin.png
+keywords:
+- embyserver
+- media
+name: embyserver
+sources:
+- https://hub.docker.com/r/lovechen/embyserver
+version: 1.0.16
